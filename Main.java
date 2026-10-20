@@ -18,25 +18,11 @@ public class Main {
         };
 
         String[] real = {
-                "Burger",
-                "Cheese Burger",
-                "Fried Chicken",
-                "Spaghetti",
-                "French Fries",
-                "Iced Tea",
-                "Soft Drink",
-                "Bottled Water"
+        // INSERT YOUR ITEMS HERE
         };
 
         double[] hi = {
-                120.00,
-                145.00,
-                150.00,
-                110.00,
-                70.00,
-                45.00,
-                50.00,
-                30.00
+        // INSERT YOUR PRICES HERE
         };
 
         int[] quan = new int[20];
