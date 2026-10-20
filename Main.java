@@ -10,15 +10,11 @@ public class Main {
 
 
         String[][] Items = {
-                {"ID","Item","Price"},
-                {"1","Burger","P120.00"},
-                {"2","Cheese Burger","P145.00"},
-                {"3","Fried Chicken","P150.00"},
-                {"4","Spaghetti","P110.00"},
-                {"5","French Fries","P70.00"},
-                {"6","Iced Tea","P45.00"},
-                {"7","Soft Drink","P50.00"},
-                {"8","Bottled Water","P30.00"},
+            {"ID","Item","Price"},
+            // {"1","Burger","P120.00"},
+            // {"2","Cheese Burger","P145.00"},
+            {// KINDLY INSERT YOUR RESTAURANT ITEMS HERE WITH THE PRICES 
+                }
         };
 
         String[] real = {
